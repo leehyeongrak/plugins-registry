@@ -1,5 +1,5 @@
 apiVersion: v2
-publisher: leehyeongrak
+publisher: tabeyti
 name: jenkins-jack
 version: 1.0.0
 type: VS Code extension
