@@ -12,6 +12,6 @@ category: Other
 firstPublicationDate: "2019-07-08"
 spec:
   containers:
-    - image: "eclipse/che-theia-endpoint-runtime: next"
+    - image: "quay.io/eclipse/che-sidecar-java"
   extensions:
     - https://github.com/leehyeongrak/vsixes/raw/master/jenkins-jack-1.0.0_vsixhub.com.vsix
