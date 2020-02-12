@@ -14,4 +14,4 @@ spec:
   containers:
     - image: "eclipse/che-theia-endpoint-runtime: next"
   extensions:
-    - https://github.com/leehyeongrak/vsixes/blob/master/jenkins-jack-1.0.0_vsixhub.com.vsix
+    - https://github.com/leehyeongrak/vsixes/raw/master/jenkins-jack-1.0.0_vsixhub.com.vsix
